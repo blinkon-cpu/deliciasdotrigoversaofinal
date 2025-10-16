@@ -12,13 +12,15 @@ A estrutura do site conta com uma barra de navegação (nav) no topo da página,
 
 A paleta de cores escolhida combina tons brancos muito claros com nuances de cinza, marrom café e dourado, transmitindo autenticidade, credibilidade, sofisticação e inovação. Esta paleta são todas cores secundarias, com fundo branco claro com nuances cinza e com predominância nas letras o preto, dourado e marrom e nos botões a cor marrom e dourado.
 
+Foi feita uma logomarca com Canvas. Esta foi exportada como .PNG e logo em seguida foi enviada ao Figma, onde foi exportada como .SVG. A mesma foi usada como ícone da página (na aba do navegador). Alteracao feita às 8:00 por Bárbara e Bruno
+
 A tipografia utilizada (font-family: "Playfair Display", serif) e as cores das letras, que variam entre preto, marrom e branco, foram selecionadas para proporcionar leitura agradável e harmonia visual, incentivando o visitante a continuar explorando o site.
 
 As imagens da seção de produtos funcionam como o carro-chefe visual, despertando no usuário o desejo de experimentar os produtos e reforçando a proposta artesanal e saborosa da marca.
 
 Paleta de cores:
 
-#f8f8f8 -Fundo Geral
+#f8f8f8 - Fundo Geral
 
 #3b2a1a - Texto Principal
 
