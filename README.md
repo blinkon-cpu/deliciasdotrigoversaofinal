@@ -1,5 +1,7 @@
 Trabalho desenvolvido por Bárbara Silva e Bruno Gadêlha Mariz, segue link do protótipo no Figma: https://www.figma.com/site/XR0Fbc1bMkToWZNGpxVb9a/Sem-t%C3%ADtulo?node-id=0-1&t=uvFYg9OrRNCvewsE-1](https://www.figma.com/site/XR0Fbc1bMkToWZNGpxVb9a/Sem-t%C3%ADtulo?node-id=0-1&t=uvFYg9OrRNCvewsE-1)
 
+Site publicado: https://blinkon-cpu.github.io/deliciasdotrigoversaofinal/
+
 A empresa Delícias do Trigo é uma padaria de origem familiar, com raízes brasileiras e portuguesas, que traz receitas tradicionais de Portugal para o coração da Ceilândia.
 
 O site foi desenvolvido com o objetivo de ampliar a presença digital da empresa, localizada na Ceilândia Norte, proporcionando maior visibilidade e expansão nas vendas online por meio do comércio eletrônico.
