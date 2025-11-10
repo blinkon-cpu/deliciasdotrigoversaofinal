@@ -35,3 +35,8 @@ Paleta de cores:
 #4b3621 - Label Formulário
 
 #b37c37 - Foco Formulário
+
+
+Parte 2 - 
+
+
